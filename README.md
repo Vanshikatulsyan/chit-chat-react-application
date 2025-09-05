@@ -30,7 +30,7 @@ https://github.com/Vanshikatulsyan/CHITCHAT-react-firebase/assets/119696625/3405
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/Vanshikatulsyan/CHITCHAT-react-firebase.git
+   git clone https://github.com/Vanshikatulsyan/chit-chat-react-application.git
 
 
 ### Install dependencies:
